@@ -17,6 +17,7 @@ namespace Lab7CSharp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            int choice = 1; // ← тут обери 1 або 2, залежно від форми
         }
     }
 }
